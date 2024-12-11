@@ -11,12 +11,12 @@ def cumulative_sum(lst):
     
     return cumulative_lst
 
-# Example usag
+# Output
 input_list = [1, 2, 3, 4, 5]
 result = cumulative_sum(input_list)
 print("Cumulative Sum:", result)
 
-# Example usag
+# description 
 '''
 How It Works:
 First element: 1 → cumulative sum = [1]
