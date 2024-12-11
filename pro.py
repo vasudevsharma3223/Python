@@ -1,3 +1,5 @@
+# 37. Write a Python program to find the cumulative sum of elements in a list.
+
 def cumulative_sum(lst):
     # Initialize an empty list to store cumulative sums
     cumulative_lst = []
@@ -25,3 +27,4 @@ Third element: 1 + 2 + 3 = 6 → cumulative sum = [1, 3, 6]
 Fourth element: 1 + 2 + 3 + 4 = 10 → cumulative sum = [1, 3, 6, 10]
 Fifth element: 1 + 2 + 3 + 4 + 5 = 15 → cumulative sum = [1, 3, 6, 10, 15] 
 '''
+
